@@ -1,0 +1,14 @@
+<h1>Ez egy főcím</h1>
+<h2>Ez egy alcím</h2>
+<p>Ez egy bekezdés, ami után egy számozatlan lista következik.</p>
+<p>Ez még egy bekezdés.</p>
+<ul>
+  <li>első listaelem</li>
+  <li>második listaelem</li>
+  <li>harmadik listaelem</li>
+</ul>
+<p>Ez egy link: <a href="http://www.w3.org/" title="A W3C honlapja">A W3C honlapja!</a><br>
+  Egy bekezdésen<br>
+  belül lehetnek<br>
+  sortörések.</p>
+<p><img src="acid2.png" width="168" height="168" alt=":-)"></p>
